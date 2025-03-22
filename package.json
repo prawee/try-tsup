@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "Prawee Wongsa <prawee@hotmail.com>",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
 }
