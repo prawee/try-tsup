@@ -2,17 +2,25 @@
   "name": "tsup-template",
   "version": "0.0.1",
   "description": "NPM Package Template",
-  "main": "index.js",
+  "main": "dist/myCalc.js",
+  "module": "dist/myCalc.mjs",
+  "types": "dist/myCalc.d.ts",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
     "build": "tsup"
   },
-  "keywords": [],
+  "keywords": [
+    "tsup",
+    "typescript",
+    "library",
+    "demo",
+    "testing",
+    "npm"
+  ],
   "author": "Prawee Wongsa <prawee@hotmail.com>",
   "license": "MIT",
-  "type": "commonjs",
   "devDependencies": {
     "tsup": "^8.4.0",
     "typescript": "^5.8.2"
