@@ -6,12 +6,15 @@
   "directories": {
     "doc": "docs"
   },
-  "scripts": {},
+  "scripts": {
+    "build": "tsup"
+  },
   "keywords": [],
   "author": "Prawee Wongsa <prawee@hotmail.com>",
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
+    "tsup": "^8.4.0",
     "typescript": "^5.8.2"
   }
 }

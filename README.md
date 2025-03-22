@@ -1,1 +1,5 @@
 # TSUP
+
+```bash
+yarn build
+```
