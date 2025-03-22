@@ -1,0 +1,14 @@
+{
+  "name": "tsup-template",
+  "version": "0.0.1",
+  "description": "NPM Package Template",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Prawee Wongsa <prawee@hotmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
