@@ -1,6 +1,6 @@
 {
-  "name": "@prawee/tsup-template",
-  "version": "0.0.2",
+  "name": "@p8w/tsup-template",
+  "version": "0.0.1",
   "description": "NPM Package Template",
   "main": "dist/myCalc.js",
   "module": "dist/myCalc.mjs",
